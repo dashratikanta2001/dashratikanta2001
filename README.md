@@ -4,6 +4,11 @@
 
 <h2>I'm</h2>
 Full Stack Developer
+
+
+## Skills and Experience
+* ⚛ React
+* 💻 HTML, CSS, JS
 <!--
 **dashratikanta2001/dashratikanta2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
