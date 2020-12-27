@@ -1,6 +1,6 @@
 ### Hi Ratikanta 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ratikanta-dash-4154ab1a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ratikanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ratikanta-dash-4154ab1a4/)
 
 I'm
 Full Stack Solution Architect
